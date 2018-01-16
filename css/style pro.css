@@ -1,0 +1,114 @@
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color : black ;
+}
+
+body{
+	background-color: #a0522d;
+
+}
+
+.secondbody{
+	overflow: hidden;
+}
+
+h1{
+	font-family: frankil Gothic Heavy;
+	text-align: center;
+	margin-top: 20px;
+	border: 3px soild pink;
+	
+ 	text-align: center;
+ 	padding-left: 20px;
+ 	letter-spacing: 20px;
+	text-shadow:5px 9px 6px #fff0f5;
+    
+	
+}
+
+.info{
+	float:right;
+	background-color: #ffb6c1;
+	color: black;
+	float: left;
+	padding-right: 20px;
+	margin-right: 0px;
+	margin-top: 40px;
+	width: 80%
+	min-width: 600px;
+ 	overflow: hidden;
+}
+#tweep{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.content{
+	width: 500px;
+}
+
+.links{
+	 padding-left: 0;
+
+}
+
+form ul{
+    padding-left: 0;
+
+}
+
+form li{
+	list-style: none;
+	margin-bottom: 20px; 
+
+} 
+
+label{
+	display:block;
+	cursor:pointer;
+	color:#292929;
+	font-family: sans-serif;
+	padding-bottom: 8px;
+	font-weight: bold;
+
+}
+
+textarea{
+	width: 400px;
+	height: 200px;
+	 padding-right: 40px;
+}
+
+
+
+
+.img4{
+	width: 150px;
+	height: 200px;
+	margin-bottom: 20px;
+	
+}
+
+
+#home{
+	 text-decoration: none;
+    margin-left: 1200px;
+    text-align: left;
+   
+
+}
+
+.bold{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.bio{
+	text-decoration: underline;
+	font-size: 30px;
+
+}
